@@ -1,14 +1,10 @@
 # Virtual-Pet
 
-by Greg Cain
+by Greg Cain I'm creating this project as part of my studies with [Manchester Codes](https://www.manchestercodes.com/). By cloning this repo to your computer you will then be able to create a pet to look after in your REPL
 
-## Description
+## Installation & How to use
 
-I'm creating this project as part of my studies with [Manchester Codes](https://www.manchestercodes.com/).
-
-## Installation
-
-1. Clone repo down to your machine
+1. Clone repo down to your computer
 2. In your REPL type
 
    ```javascript
@@ -71,13 +67,16 @@ I'm creating this project as part of my studies with [Manchester Codes](https://
 
 ## Roadmap
 
-~~\*\*I should hopefully have this all finished by the end of week 4 of this module, which I think is Christmas Day 🙃~~~~\*\*~~
+~~I should hopefully have this all finished by the end of week 4 of this module, which I think is Christmas Day 🙃~~
 
-I have actually finished following the track for this project, but I still have some plans for this project!
+I have actually finished following the track for this project, but I still have some plans for it!
 
 - ~~update to object class~~
-- add more properties (with aim to making pets more pokemon-like and able to fight)
 - add gui
+
+## Application Dependencies
+
+JavaScript and Jest
 
 ## Support
 
@@ -85,4 +84,4 @@ Thank you to all the support from tutors and fellow coursemates at Manchester Co
 
 ## Authors and acknowledgement
 
-codegregcode
+[codegregcode](https://www.linkedin.com/in/greg-cain/)
