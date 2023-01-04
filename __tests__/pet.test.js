@@ -56,7 +56,6 @@ describe('growUp', () => {
         pet.age = 31;
         expect(() => pet.growUp()).toThrow('Your pet is no longer alive :(');
     });
-
 });
 
 describe('walk', () => {
