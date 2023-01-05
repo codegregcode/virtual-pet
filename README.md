@@ -1,6 +1,6 @@
 # Virtual-Pet
 
-by Greg Cain I'm creating this project as part of my studies with [Manchester Codes](https://www.manchestercodes.com/). By cloning this repo to your computer you will then be able to create a pet to look after in your REPL
+by Greg Cain I'm creating this project as part of my studies with [Command Shift](https://github.com/CommandShiftHQ). By cloning this repo to your computer you will then be able to create a pet to look after in your REPL
 
 ## Installation & How to use
 
@@ -94,7 +94,7 @@ JavaScript and Jest
 
 ## Support
 
-Thank you to all the support from tutors and fellow coursemates at Manchester Codes 🙌
+Thank you to all the support from tutors and fellow coursemates at [Command Shift](https://github.com/CommandShiftHQ) 🙌
 
 ## Authors and acknowledgement
 
