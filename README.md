@@ -17,8 +17,8 @@ by Greg Cain I'm creating this project as part of my studies with [Manchester Co
 
    yourPet is a placeholder variable, it can be whatever you want to refer your pet as in the REPL. I've used myPet in this example, but you can use anything)
 
-   ```
-   const yourPet = new Pet('putYourPetsNameHere');
+   ```javascript
+   const yourPet = new Pet("putYourPetsNameHere");
    ```
 
    ![1672844907439](image/README/1672844907439.png)
@@ -56,14 +56,28 @@ by Greg Cain I'm creating this project as part of my studies with [Manchester Co
 
    ![1672845188129](image/README/1672845188129.png)
 
-9. Your pet can also have a baby, and also adopt a child! You will also need to look after both children by using the above functions!
+9. Your pet can also have a baby! You will also need to look after the baby by using the above functions!
 
    ```
    yourPet.haveBaby();
-   yourPet.adoptChild();
+
    ```
 
-   ![1672845202134](image/README/1672845202134.png)
+   ![1672914963676](image/README/1672914963676.png)
+
+10. To adopt a child, you must first create the child the same way you created your pet
+
+    ```
+    const yourChildPet = new Pet('putChildsNameHere')
+    ```
+
+    and then use the adoptChild function the parent pet!
+
+    ```
+    yourPet.adoptChild(yourChildPet)
+    ```
+
+    ![1672915325885](image/README/1672915325885.png)
 
 ## Roadmap
 
